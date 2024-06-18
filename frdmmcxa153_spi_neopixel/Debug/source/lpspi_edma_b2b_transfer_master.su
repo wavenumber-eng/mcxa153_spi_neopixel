@@ -1,0 +1,3 @@
+C:\Users\Jerry\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmmcxa153_lpspi_edma_b2b_transfer_master\drivers/fsl_edma.h:677:20:EDMA_SetChannelMux	24	static
+../source/lpspi_edma_b2b_transfer_master.c:73:6:LPSPI_MasterUserCallback	24	static
+../source/lpspi_edma_b2b_transfer_master.c:86:5:main	104	static

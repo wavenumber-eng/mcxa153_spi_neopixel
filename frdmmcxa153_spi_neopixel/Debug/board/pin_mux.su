@@ -1,0 +1,5 @@
+C:\Users\Jerry\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmmcxa153_lpspi_edma_b2b_transfer_master\drivers/fsl_clock.h:546:20:CLOCK_EnableClock	32	static
+C:\Users\Jerry\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmmcxa153_lpspi_edma_b2b_transfer_master\drivers/fsl_reset.h:196:20:RESET_ReleasePeripheralReset	16	static
+C:\Users\Jerry\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmmcxa153_lpspi_edma_b2b_transfer_master\drivers/fsl_port.h:355:20:PORT_SetPinConfig	32	static
+../board/pin_mux.c:35:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:76:6:BOARD_InitPins	48	static
