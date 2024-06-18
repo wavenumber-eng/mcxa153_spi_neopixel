@@ -1,1 +1,1 @@
-# spi_neopixel
+# Neopixel protocol over MCXA153 SPI
