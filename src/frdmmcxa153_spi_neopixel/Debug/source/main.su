@@ -1,0 +1,13 @@
+C:\Users\Jerry\Desktop\Wavenumber\spi_neopixel_demo\spi_neopixel\frdmmcxa153_spi_neopixel\CMSIS/core_cm33.h:2575:22:__NVIC_SetPriority	16	static
+C:\Users\Jerry\Desktop\Wavenumber\spi_neopixel_demo\spi_neopixel\frdmmcxa153_spi_neopixel\CMSIS/core_cm33.h:3128:26:SysTick_Config	16	static
+C:\Users\Jerry\Desktop\Wavenumber\spi_neopixel_demo\spi_neopixel\frdmmcxa153_spi_neopixel\drivers/fsl_edma.h:677:20:EDMA_SetChannelMux	24	static
+../source/main.c:95:6:SysTick_Handler	4	static
+../source/main.c:100:6:system__delay_ms	16	static
+../source/main.c:110:6:LPSPI_MasterUserCallback	24	static
+../source/main.c:124:5:main	16	static
+../source/main.c:182:6:ledstrip_update	8	static
+../source/main.c:197:6:ledstrip_turn_off	16	static
+../source/main.c:208:6:ledstrip__effect1	24	static
+../source/main.c:229:6:ledstrip__effect2	40	static
+../source/main.c:266:6:ledstrip__effect3	32	static
+../source/main.c:290:6:ledstrip__effect4	64	static

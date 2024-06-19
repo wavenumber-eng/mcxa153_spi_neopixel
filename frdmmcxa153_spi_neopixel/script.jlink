@@ -1,7 +1,0 @@
-ExitOnError 1
-r
-h
-loadfile "C:\Users\Jerry\Documents\MCUXpressoIDE_11.9.0_2144\workspace\frdmmcxa153_lpspi_edma_b2b_transfer_master\Debug\frdmmcxa153_lpspi_edma_b2b_transfer_master.hex"
-qc
-
-qc
